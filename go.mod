@@ -1,3 +1,3 @@
-module github.com/ua-parser/uap-go
+module github.com/dtravin/uap-go
 
 require gopkg.in/yaml.v2 v2.2.1
